@@ -1,0 +1,18 @@
+body{
+    background-image:url(https://i.pinimg.com/originals/12/51/a6/1251a631f1735d09faf719717dac8f53.jpg)
+
+}
+#first{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    float: left;
+
+    width: 250px;
+    height: 500px;
+background-image: url(https://steamuserimages-a.akamaihd.net/ugc/865104814170108202/7224FE35914CA21575DF4DB29C5E8BA78AF22D32/?imw=576&imh=1024&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
+}
+#first:hover{
+    transition-duration: 2.0;
+    opacity:0.2;
+}
